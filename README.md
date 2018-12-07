@@ -1,4 +1,4 @@
-# code-contest-front
+# x
 
 ## Project setup
 ```
