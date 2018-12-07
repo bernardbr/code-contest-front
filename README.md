@@ -1,4 +1,4 @@
-# x
+# Code contest
 
 ## Project setup
 ```
